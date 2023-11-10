@@ -10,7 +10,7 @@
 [mit-url]: LICENSE-MIT
 [apache-badge]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
 [apache-url]: LICENSE-APACHE
-[coc-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
+[cc-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
 [cc-url]: CODE_OF_CONDUCT.md
 
 ## Overview
