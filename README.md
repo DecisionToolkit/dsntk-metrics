@@ -16,7 +16,7 @@
 ## Overview
 
 Metrics presented in this repository are intended to provide objective measures
-of [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs)'s maturity,
+of the [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs) maturity,
 based on a range of performance and reliability criteria.
 
 To assess the maturity of [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs),
