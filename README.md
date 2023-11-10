@@ -53,8 +53,8 @@ This way the focus can be on performance improvements without the risk of spoili
 ## Metrics summary
 
 | version | date | compatibility<br/>tests | lines<br/>coverage | functions<br/>coverage | perf<br/>90% | perf<br/>99% |
-|---------|:----:|:-----------------------:|:------------------:|:----------------------:|:------------:|:------------:|
-| 0.0.1   | tbd  |                         |                    |                        |              |              |
+|--------:|:----:|:-----------------------:|:------------------:|:----------------------:|:------------:|:------------:|
+|   0.0.1 | tbd  |                         |                    |                        |              |              |
 
 ## License
 
