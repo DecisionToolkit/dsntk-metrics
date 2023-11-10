@@ -31,13 +31,12 @@ Edwards W. Deming said:
 
 *"It is wrong to suppose that if you can’t measure it, you can’t manage it – a costly myth."*
 
-Although it could be possible to manage a project like **Decision Toolkit** without any measurements,
-it is essential to track such key indicators like compatibility testing, code coverage,
+Although it could be possible to manage a project like [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs)
+without any measurements, it is essential to track such key indicators like compatibility testing, code coverage,
 and model execution time, to maintain a high level of quality that meets user expectations.
 
-The first goal is reaching the full DMN™ standard conformance on level 3.
-Successfully passing compatibility tests provides a high level of confidence
-that the project is on track to achieve this goal.
+The first goal is reaching the full [DMN](https://www.omg.org/spec/DMN)™ standard conformance at level 3.
+Successfully passing compatibility tests provides a high level of confidence that the project is on track to achieve this goal.
 Surely, until [Technology Compatibility Kit for the Decision Model and Notation (DMN) standard](https://github.com/dmn-tck/tck)
 does not provide the complete compatibility testing suite, it can't be assured, that this conformance level is achieved in 100%.
 Supporting the development of compatibility tests is one of key priorities.
