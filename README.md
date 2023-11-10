@@ -16,7 +16,8 @@
 ## Overview
 
 Metrics presented in this repository are intended to provide objective measures
-of **Decision Toolkit**'s maturity, based on a range of performance and reliability criteria.
+of [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs)'s maturity,
+based on a range of performance and reliability criteria.
 
 To assess **Decision Toolkit**'s maturity, the following metrics has been adopted:
 - [Number of passing compatibility tests](./compatibility/README.md)
