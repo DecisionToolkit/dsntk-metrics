@@ -53,7 +53,7 @@ This way the focus can be on performance improvements without the risk of spoili
 
 | version |    date    | compatibility<br/>tests | lines<br/>coverage | functions<br/>coverage | perf<br/>90% | perf<br/>99% |
 |---------|:----------:|:-----------------------:|:------------------:|:----------------------:|:------------:|:------------:|
-| v0.0.1  | 2023-11-11 |     3255/55 98.31%      |       99.7%        |         93.9%          |              |              |
+| v0.0.1  | 2023-11-11 |     3255/55 98.31%      |       99.7%        |         93.9%          |    ≤ 6µs     |    ≤ 51µs    |
 
 ## License
 
