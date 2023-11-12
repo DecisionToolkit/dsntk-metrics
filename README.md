@@ -23,7 +23,7 @@ To assess the maturity of [**Decision Toolkit**](https://github.com/dsntk/dsntk-
 the following key performance indicators has been adopted:
 - [Number of passing compatibility tests](./compatibility/README.md)
 - [Percentage of source code coverage](./coverage/README.md)
-- [Time of decision model evaluation](./performance/README.md)
+- [Evaluation time of decision model](./performance/README.md)
 
 ## Adopted approach
 
@@ -31,9 +31,9 @@ Edwards W. Deming said:
 
 *"It is wrong to suppose that if you can’t measure it, you can’t manage it – a costly myth."*
 
-Although it could be possible to manage a project like [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs)
-without any measurements, it is essential to track such key indicators like compatibility testing, code coverage,
-and model execution time, to maintain a high level of quality that meets user expectations.
+It could be possible to manage a project like [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs)
+without any measurements, but it is essential to track such key indicators like the number of passing compatibility tests,
+percentage of code coverage, and the model execution time, to maintain a high level of quality that meets user expectations.
 
 The first goal is reaching the full [DMN](https://www.omg.org/spec/DMN)™ standard conformance at level 3.
 Successfully passing compatibility tests provides a high level of confidence that the project is on track to achieve this goal.
