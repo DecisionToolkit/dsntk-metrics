@@ -8,6 +8,7 @@ All benchmarks are executed on a single core of the processor AMD Ryzen 5 4600G.
 
 | version                |    date    | perf<br/>90% | perf<br/>99% |
 |------------------------|:----------:|:------------:|:------------:|
+| [v0.0.3](./2023-12-31) | 2023-12-31 |    ≤ 5µs     |    ≤ 49µs    |
 | [v0.0.1](./2023-11-11) | 2023-11-11 |    ≤ 6µs     |    ≤ 51µs    |
 
 > Note: When the Decision Toolkit is used as a service,

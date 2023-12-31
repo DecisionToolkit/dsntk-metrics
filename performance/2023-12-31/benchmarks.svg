@@ -1,0 +1,667 @@
+<svg height="600" viewBox="0 0 2000 600" width="2000" xmlns="http://www.w3.org/2000/svg">
+<g class="g-chart">
+<g class="g-title" transform="translate(1000,25)">
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="24px" text-anchor="middle" x="0" y="0">
+DSNTK performance histogram, version 0.0.3
+</text>
+</g>
+<g class="x-axis" transform="translate(60,550)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1" x1="0" x2="1900" y1="0" y2="0"/>
+<g class="tick" transform="translate(22.668158,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+46.20
+</text>
+</g>
+<g class="tick" transform="translate(63.882904,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+72.30
+</text>
+</g>
+<g class="tick" transform="translate(105.09766,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+80.59
+</text>
+</g>
+<g class="tick" transform="translate(146.3124,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+83.12
+</text>
+</g>
+<g class="tick" transform="translate(187.52715,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+87.52
+</text>
+</g>
+<g class="tick" transform="translate(228.7419,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+89.99
+</text>
+</g>
+<g class="tick" transform="translate(269.95663,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+92.63
+</text>
+</g>
+<g class="tick" transform="translate(311.1714,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+95.67
+</text>
+</g>
+<g class="tick" transform="translate(352.38614,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+96.52
+</text>
+</g>
+<g class="tick" transform="translate(393.6009,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+96.92
+</text>
+</g>
+<g class="tick" transform="translate(434.81564,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+97.16
+</text>
+</g>
+<g class="tick" transform="translate(476.0304,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+97.26
+</text>
+</g>
+<g class="tick" transform="translate(517.2451,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+97.53
+</text>
+</g>
+<g class="tick" transform="translate(558.4599,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+97.80
+</text>
+</g>
+<g class="tick" transform="translate(599.6746,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+97.97
+</text>
+</g>
+<g class="tick" transform="translate(640.8894,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.31
+</text>
+</g>
+<g class="tick" transform="translate(682.1041,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.34
+</text>
+</g>
+<g class="tick" transform="translate(723.31885,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.44
+</text>
+</g>
+<g class="tick" transform="translate(764.5336,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.48
+</text>
+</g>
+<g class="tick" transform="translate(805.74835,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.55
+</text>
+</g>
+<g class="tick" transform="translate(846.96313,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.58
+</text>
+</g>
+<g class="tick" transform="translate(888.17786,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.61
+</text>
+</g>
+<g class="tick" transform="translate(929.39264,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.65
+</text>
+</g>
+<g class="tick" transform="translate(970.60736,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.68
+</text>
+</g>
+<g class="tick" transform="translate(1011.8221,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.82
+</text>
+</g>
+<g class="tick" transform="translate(1053.0369,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+98.95
+</text>
+</g>
+<g class="tick" transform="translate(1094.2517,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.02
+</text>
+</g>
+<g class="tick" transform="translate(1135.4663,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.05
+</text>
+</g>
+<g class="tick" transform="translate(1176.6812,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.19
+</text>
+</g>
+<g class="tick" transform="translate(1217.8958,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.22
+</text>
+</g>
+<g class="tick" transform="translate(1259.1106,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.32
+</text>
+</g>
+<g class="tick" transform="translate(1300.3254,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.39
+</text>
+</g>
+<g class="tick" transform="translate(1341.54,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.46
+</text>
+</g>
+<g class="tick" transform="translate(1382.7549,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.49
+</text>
+</g>
+<g class="tick" transform="translate(1423.9695,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.53
+</text>
+</g>
+<g class="tick" transform="translate(1465.1843,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.56
+</text>
+</g>
+<g class="tick" transform="translate(1506.3992,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.59
+</text>
+</g>
+<g class="tick" transform="translate(1547.6138,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.63
+</text>
+</g>
+<g class="tick" transform="translate(1588.8286,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.70
+</text>
+</g>
+<g class="tick" transform="translate(1630.0435,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.73
+</text>
+</g>
+<g class="tick" transform="translate(1671.258,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.76
+</text>
+</g>
+<g class="tick" transform="translate(1712.4729,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.80
+</text>
+</g>
+<g class="tick" transform="translate(1753.6875,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.83
+</text>
+</g>
+<g class="tick" transform="translate(1794.9023,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.93
+</text>
+</g>
+<g class="tick" transform="translate(1836.1172,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+99.97
+</text>
+</g>
+<g class="tick" transform="translate(1877.3318,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
+100.00
+</text>
+</g>
+<text fill="#777" font-family="sans-serif" font-size="14px" text-anchor="middle" transform="rotate(0)" x="950" y="42">
+Percentile
+</text>
+</g>
+<g class="y-axis" transform="translate(60,90)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1" x1="0" x2="0" y1="0" y2="460"/>
+<g class="tick" transform="translate(0,460)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+0
+</text>
+</g>
+<g class="tick" transform="translate(0,427.14285)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+50
+</text>
+</g>
+<g class="tick" transform="translate(0,394.2857)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+100
+</text>
+</g>
+<g class="tick" transform="translate(0,361.4286)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+150
+</text>
+</g>
+<g class="tick" transform="translate(0,328.5714)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+200
+</text>
+</g>
+<g class="tick" transform="translate(0,295.7143)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+250
+</text>
+</g>
+<g class="tick" transform="translate(0,262.85715)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+300
+</text>
+</g>
+<g class="tick" transform="translate(0,230)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+350
+</text>
+</g>
+<g class="tick" transform="translate(0,197.14285)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+400
+</text>
+</g>
+<g class="tick" transform="translate(0,164.2857)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+450
+</text>
+</g>
+<g class="tick" transform="translate(0,131.42856)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+500
+</text>
+</g>
+<g class="tick" transform="translate(0,98.57144)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+550
+</text>
+</g>
+<g class="tick" transform="translate(0,65.714294)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+600
+</text>
+</g>
+<g class="tick" transform="translate(0,32.857147)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+650
+</text>
+</g>
+<g class="tick" transform="translate(0,0)">
+<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
+<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
+700
+</text>
+</g>
+<text fill="#777" font-family="sans-serif" font-size="14px" text-anchor="middle" transform="rotate(-90)" x="-230" y="-42">
+Microseconds
+</text>
+</g>
+<g class="g-view" transform="translate(60,90)">
+<g>
+<g class="bar" transform="translate(910.846,0)">
+<rect fill="#1f77b4" height="19.057129" shape-rendering="crispEdges" width="37.093273" x="0" y="440.94287"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="424.94287">
+29
+</text>
+</g>
+<g class="bar" transform="translate(1240.564,0)">
+<rect fill="#1f77b4" height="38.771423" shape-rendering="crispEdges" width="37.093273" x="0" y="421.22858"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="405.22858">
+59
+</text>
+</g>
+<g class="bar" transform="translate(251.41,0)">
+<rect fill="#1f77b4" height="3.942871" shape-rendering="crispEdges" width="37.093273" x="0" y="456.05713"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="440.05713">
+6
+</text>
+</g>
+<g class="bar" transform="translate(86.55102,0)">
+<rect fill="#1f77b4" height="1.3143005" shape-rendering="crispEdges" width="37.093273" x="0" y="458.6857"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="442.6857">
+2
+</text>
+</g>
+<g class="bar" transform="translate(498.6985,0)">
+<rect fill="#1f77b4" height="7.8857117" shape-rendering="crispEdges" width="37.093273" x="0" y="452.1143"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="436.1143">
+12
+</text>
+</g>
+<g class="bar" transform="translate(828.4165,0)">
+<rect fill="#1f77b4" height="15.114288" shape-rendering="crispEdges" width="37.093273" x="0" y="444.8857"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="428.8857">
+23
+</text>
+</g>
+<g class="bar" transform="translate(1405.4229,0)">
+<rect fill="#1f77b4" height="51.914276" shape-rendering="crispEdges" width="37.093273" x="0" y="408.08572"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="392.08572">
+79
+</text>
+</g>
+<g class="bar" transform="translate(952.0607,0)">
+<rect fill="#1f77b4" height="21.6857" shape-rendering="crispEdges" width="37.093273" x="0" y="438.3143"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="422.3143">
+33
+</text>
+</g>
+<g class="bar" transform="translate(4.121521,0)">
+<rect fill="#1f77b4" height="0" shape-rendering="crispEdges" width="37.093273" x="0" y="460"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="444">
+0
+</text>
+</g>
+<g class="bar" transform="translate(1487.8525,0)">
+<rect fill="#1f77b4" height="72.94287" shape-rendering="crispEdges" width="37.093273" x="0" y="387.05713"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="371.05713">
+111
+</text>
+</g>
+<g class="bar" transform="translate(1570.282,0)">
+<rect fill="#1f77b4" height="88.714294" shape-rendering="crispEdges" width="37.093273" x="0" y="371.2857"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="355.2857">
+135
+</text>
+</g>
+<g class="bar" transform="translate(745.987,0)">
+<rect fill="#1f77b4" height="12.485718" shape-rendering="crispEdges" width="37.093273" x="0" y="447.51428"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="431.51428">
+19
+</text>
+</g>
+<g class="bar" transform="translate(1693.9263,0)">
+<rect fill="#1f77b4" height="104.48572" shape-rendering="crispEdges" width="37.093273" x="0" y="355.51428"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="339.51428">
+159
+</text>
+</g>
+<g class="bar" transform="translate(1776.3557,0)">
+<rect fill="#1f77b4" height="115" shape-rendering="crispEdges" width="37.093273" x="0" y="345"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="329">
+175
+</text>
+</g>
+<g class="bar" transform="translate(1034.4902,0)">
+<rect fill="#1f77b4" height="26.942871" shape-rendering="crispEdges" width="37.093273" x="0" y="433.05713"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="417.05713">
+41
+</text>
+</g>
+<g class="bar" transform="translate(1364.2083,0)">
+<rect fill="#1f77b4" height="46.657135" shape-rendering="crispEdges" width="37.093273" x="0" y="413.34286"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="397.34286">
+71
+</text>
+</g>
+<g class="bar" transform="translate(457.48376,0)">
+<rect fill="#1f77b4" height="7.2285767" shape-rendering="crispEdges" width="37.093273" x="0" y="452.77142"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="436.77142">
+11
+</text>
+</g>
+<g class="bar" transform="translate(1281.7788,0)">
+<rect fill="#1f77b4" height="40.085724" shape-rendering="crispEdges" width="37.093273" x="0" y="419.91428"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="403.91428">
+61
+</text>
+</g>
+<g class="bar" transform="translate(45.33627,0)">
+<rect fill="#1f77b4" height="0.657135" shape-rendering="crispEdges" width="37.093273" x="0" y="459.34286"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="443.34286">
+1
+</text>
+</g>
+<g class="bar" transform="translate(375.05426,0)">
+<rect fill="#1f77b4" height="5.914276" shape-rendering="crispEdges" width="37.093273" x="0" y="454.08572"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="438.08572">
+9
+</text>
+</g>
+<g class="bar" transform="translate(127.76576,0)">
+<rect fill="#1f77b4" height="1.9714355" shape-rendering="crispEdges" width="37.093273" x="0" y="458.02856"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="442.02856">
+3
+</text>
+</g>
+<g class="bar" transform="translate(663.5575,0)">
+<rect fill="#1f77b4" height="10.514282" shape-rendering="crispEdges" width="37.093273" x="0" y="449.48572"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="433.48572">
+16
+</text>
+</g>
+<g class="bar" transform="translate(1652.7114,0)">
+<rect fill="#1f77b4" height="99.22858" shape-rendering="crispEdges" width="37.093273" x="0" y="360.77142"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="344.77142">
+151
+</text>
+</g>
+<g class="bar" transform="translate(869.6312,0)">
+<rect fill="#1f77b4" height="17.085724" shape-rendering="crispEdges" width="37.093273" x="0" y="442.91428"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="426.91428">
+26
+</text>
+</g>
+<g class="bar" transform="translate(333.8395,0)">
+<rect fill="#1f77b4" height="5.257141" shape-rendering="crispEdges" width="37.093273" x="0" y="454.74286"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="438.74286">
+8
+</text>
+</g>
+<g class="bar" transform="translate(416.269,0)">
+<rect fill="#1f77b4" height="6.5714417" shape-rendering="crispEdges" width="37.093273" x="0" y="453.42856"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="437.42856">
+10
+</text>
+</g>
+<g class="bar" transform="translate(622.3428,0)">
+<rect fill="#1f77b4" height="9.857147" shape-rendering="crispEdges" width="37.093273" x="0" y="450.14285"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="434.14285">
+15
+</text>
+</g>
+<g class="bar" transform="translate(168.98051,0)">
+<rect fill="#1f77b4" height="2.6285706" shape-rendering="crispEdges" width="37.093273" x="0" y="457.37143"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="441.37143">
+4
+</text>
+</g>
+<g class="bar" transform="translate(1199.3491,0)">
+<rect fill="#1f77b4" height="37.457153" shape-rendering="crispEdges" width="37.093273" x="0" y="422.54285"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="406.54285">
+57
+</text>
+</g>
+<g class="bar" transform="translate(993.27545,0)">
+<rect fill="#1f77b4" height="23" shape-rendering="crispEdges" width="37.093273" x="0" y="437"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="421">
+35
+</text>
+</g>
+<g class="bar" transform="translate(704.7722,0)">
+<rect fill="#1f77b4" height="11.828583" shape-rendering="crispEdges" width="37.093273" x="0" y="448.17142"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="432.17142">
+18
+</text>
+</g>
+<g class="bar" transform="translate(1322.9934,0)">
+<rect fill="#1f77b4" height="41.399994" shape-rendering="crispEdges" width="37.093273" x="0" y="418.6"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="402.6">
+63
+</text>
+</g>
+<g class="bar" transform="translate(1858.7852,0)">
+<rect fill="#1f77b4" height="482.99997" shape-rendering="crispEdges" width="37.093273" x="0" y="-22.99997"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="-38.99997">
+735
+</text>
+</g>
+<g class="bar" transform="translate(581.128,0)">
+<rect fill="#1f77b4" height="9.200012" shape-rendering="crispEdges" width="37.093273" x="0" y="450.8"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="434.8">
+14
+</text>
+</g>
+<g class="bar" transform="translate(1116.9197,0)">
+<rect fill="#1f77b4" height="34.828583" shape-rendering="crispEdges" width="37.093273" x="0" y="425.17142"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="409.17142">
+53
+</text>
+</g>
+<g class="bar" transform="translate(1817.5706,0)">
+<rect fill="#1f77b4" height="199.11429" shape-rendering="crispEdges" width="37.093273" x="0" y="260.8857"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="244.88571">
+303
+</text>
+</g>
+<g class="bar" transform="translate(539.91327,0)">
+<rect fill="#1f77b4" height="8.542847" shape-rendering="crispEdges" width="37.093273" x="0" y="451.45715"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="435.45715">
+13
+</text>
+</g>
+<g class="bar" transform="translate(1075.7051,0)">
+<rect fill="#1f77b4" height="32.200012" shape-rendering="crispEdges" width="37.093273" x="0" y="427.8"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="411.8">
+49
+</text>
+</g>
+<g class="bar" transform="translate(1446.6377,0)">
+<rect fill="#1f77b4" height="65.05713" shape-rendering="crispEdges" width="37.093273" x="0" y="394.94287"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="378.94287">
+99
+</text>
+</g>
+<g class="bar" transform="translate(1735.1409,0)">
+<rect fill="#1f77b4" height="109.74286" shape-rendering="crispEdges" width="37.093273" x="0" y="350.25714"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="334.25714">
+167
+</text>
+</g>
+<g class="bar" transform="translate(292.62476,0)">
+<rect fill="#1f77b4" height="4.600006" shape-rendering="crispEdges" width="37.093273" x="0" y="455.4"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="439.4">
+7
+</text>
+</g>
+<g class="bar" transform="translate(1529.0671,0)">
+<rect fill="#1f77b4" height="75.57144" shape-rendering="crispEdges" width="37.093273" x="0" y="384.42856"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="368.42856">
+115
+</text>
+</g>
+<g class="bar" transform="translate(1611.4968,0)">
+<rect fill="#1f77b4" height="93.971436" shape-rendering="crispEdges" width="37.093273" x="0" y="366.02856"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="350.02856">
+143
+</text>
+</g>
+<g class="bar" transform="translate(787.2017,0)">
+<rect fill="#1f77b4" height="13.142853" shape-rendering="crispEdges" width="37.093273" x="0" y="446.85715"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="430.85715">
+20
+</text>
+</g>
+<g class="bar" transform="translate(210.19527,0)">
+<rect fill="#1f77b4" height="3.2857056" shape-rendering="crispEdges" width="37.093273" x="0" y="456.7143"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="440.7143">
+5
+</text>
+</g>
+<g class="bar" transform="translate(1158.1345,0)">
+<rect fill="#1f77b4" height="36.142853" shape-rendering="crispEdges" width="37.093273" x="0" y="423.85715"/>
+<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="18.546637" y="407.85715">
+55
+</text>
+</g>
+</g>
+</g>
+</g>
+</svg>
