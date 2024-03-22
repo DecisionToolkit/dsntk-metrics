@@ -9,5 +9,6 @@ This set of tests is used to measure the compatibility level of Decision Toolkit
 
 | version                |    date    | compatibility<br/>tests |
 |------------------------|:----------:|:-----------------------:|
+| [v0.0.4](./2024-02-04) | 2024-02-04 |     3400/0 100.00%      |
 | [v0.0.3](./2023-12-31) | 2023-12-31 |     3339/13 99.61%      |
 | [v0.0.1](./2023-11-11) | 2023-11-11 |     3255/55 98.31%      |
