@@ -19,10 +19,10 @@
 ## Overview
 
 Metrics presented in this repository are intended to provide objective measures
-of the [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs) maturity,
+of the [**ÐecisionToolkit**](https://github.com/dsntk/dsntk-rs) maturity,
 based on a range of performance and reliability criteria.
 
-To assess the maturity of [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs),
+To assess the maturity of [**ÐecisionToolkit**](https://github.com/dsntk/dsntk-rs),
 the following key performance indicators has been adopted:
 - [Number of passing compatibility tests](./compatibility/README.md)
 - [Percentage of source code coverage](./coverage/README.md)
@@ -34,7 +34,7 @@ Edwards W. Deming said:
 
 *"It is wrong to suppose that if you can’t measure it, you can’t manage it – a costly myth."*
 
-It could be possible to manage a project like [**Decision Toolkit**](https://github.com/dsntk/dsntk-rs)
+It could be possible to manage a project like [**ÐecisionToolkit**](https://github.com/dsntk/dsntk-rs)
 without any measurements, but it is essential to track such key indicators like the number of passing compatibility tests,
 percentage of code coverage, and the model execution time, to maintain a high level of quality that meets user expectations.
 
