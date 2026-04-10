@@ -15,6 +15,8 @@
 [apache-notice-url]: NOTICE
 [cc-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
 [cc-url]: CODE_OF_CONDUCT.md
+[Deming]: https://deming.org/myth-if-you-cant-measure-it-you-cant-manage-it/
+[ÐecisionToolkit]: https://github.com/DecisionToolkit/dsntk
 
 ## Overview
 
@@ -32,10 +34,10 @@ the following key performance indicators has been adopted:
 
 Edwards W. Deming said:
 
-*"It is wrong to suppose that if you can’t measure it, you can’t manage it – a costly myth."*
+["It is wrong to suppose that if you can’t measure it, you can’t manage it – a costly myth."][Deming]
 
-It could be possible to manage a project like [**ÐecisionToolkit**](https://github.com/dsntk/dsntk-rs)
-without any measurements, but it is essential to track such key indicators like the number of passing compatibility tests,
+It could be possible to manage a project like **[ÐecisionToolkit]** without any measurements,
+but it is essential to track such key indicators like the number of passing compatibility tests,
 percentage of code coverage, and the model execution time, to maintain a high level of quality that meets user expectations.
 
 The first goal is reaching the full [DMN](https://www.omg.org/spec/DMN)™ standard conformance at level 3.
