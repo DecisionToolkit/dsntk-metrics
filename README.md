@@ -1,7 +1,5 @@
 **dsntk** | ÐecisionToolkit
 
-# Metrics
-
 [![MIT licensed][mit-badge]][mit-url]
 [![Apache 2.0 licensed][apache-badge]][apache-url]
 [![Contributor Covenant][cc-badge]][cc-url]
@@ -17,6 +15,8 @@
 [cc-url]: CODE_OF_CONDUCT.md
 [Deming]: https://deming.org/myth-if-you-cant-measure-it-you-cant-manage-it/
 [ÐecisionToolkit]: https://github.com/DecisionToolkit/dsntk
+
+# Metrics
 
 ## Overview
 
